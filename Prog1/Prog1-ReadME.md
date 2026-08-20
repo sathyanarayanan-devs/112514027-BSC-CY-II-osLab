@@ -31,25 +31,7 @@ gcc prog1.c -o prog1
 
 ## Sample Output
 
-```
-Current Working Directory:
-/home/user/Prog1
-
-List of Files in Current Directory:
-total 8
--rwxr-xr-x 1 user user 16200 Jul 18 00:30 prog1
--rw-r--r-- 1 user user   520 Jul 18 00:25 prog1.c
-
-Creating a new directory named 'Demo'...
-
-List of Files in Current Directory after creating 'Demo':
-total 8
-drwxr-xr-x 2 user user 4096 Jul 18 00:31 Demo
--rwxr-xr-x 1 user user 16200 Jul 18 00:30 prog1
--rw-r--r-- 1 user user   520 Jul 18 00:25 prog1.c
-
-Removing the directory named 'Demo'...
-```
+![Sample Output](https://github.com/sathyanarayanan-devs/112514027-BSC-CY-II-OSLAB/Prog1/image.png)
 
 ## Commands Used
 
