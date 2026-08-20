@@ -1,19 +1,19 @@
 #include <stdio.h>
 #include <stdlib.h>
 int main() {
-    printf("\nCurrent Working Directory: ");
+    printf("\nCurrent working directory...\n");
     system("pwd");
 
-    printf("\nList of Files in Current Directory: ");
+    printf("\nList of files in the current directory...\n");
     system("ls -l");
 
-    printf("\nCreating a new directory named 'Demo'...\n");
+    printf("\nCreate a new directory named 'Demo'...\n");
     system("mkdir Demo");
 
-    printf("\nList of Files in Current Directory after creating 'Demo': ");
+    printf("\nList of files in the current directory...\n");
     system("ls -l");
 
-    printf("\nRemoving the directory named 'Demo'...\n");
+    printf("\nRemove the 'Demo' directory...\n");
     system("rmdir Demo");
 
     return 0;
