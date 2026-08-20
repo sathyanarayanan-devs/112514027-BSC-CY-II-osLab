@@ -31,7 +31,7 @@ gcc prog1.c -o prog1
 
 ## Sample Output
 
-![Sample Output](https://github.com/sathyanarayanan-devs/112514027-BSC-CY-II-OSLAB/Prog1/image.png)
+![Sample Output](image.png)
 
 ## Commands Used
 
