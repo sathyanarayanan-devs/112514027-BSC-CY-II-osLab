@@ -15,7 +15,7 @@ The commands executed are:
 - `rmdir Demo` – Removes the empty **Demo** directory.
 
 ## Source Code
-File: `prog1.c`
+File: [prog1.c](https://github.com/sathyanarayanan-devs/112514027-BSC-CY-II-osLab/edit/112514027-BSC-OSLAB-CY-II/Prog1/prog1.c)
 
 ## Compilation
 
