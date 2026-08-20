@@ -53,13 +53,7 @@ chmod +x prog2.sh
 
 ## Sample Output
 
-```
-Number of arguments supplied: 3
-file1.txt is a file.
-Number of lines in file1.txt: 15
-Demo is a directory.
-sample.txt is not a valid file or directory.
-```
+![Sample Output](image.png)
 
 ## Commands Used
 

@@ -11,6 +11,6 @@ do
     elif [ -d "$item" ]; then
         echo "$item is a directory."
     else
-        echo "$item is not a valid file or directory."
+        echo "$item does not exist."
     fi
 done
