@@ -1,4 +1,4 @@
-# Program 2: File and Directory Operations Using System Calls in C
+# Program 3: File and Directory Operations Using System Calls in C
 
 ## Aim
 
