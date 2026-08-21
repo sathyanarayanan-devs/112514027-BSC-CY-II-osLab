@@ -24,7 +24,7 @@ The operations performed are:
 
 ## Source Code
 
-**File**: [prog7.c](https://github.com/sathyanarayanan-devs/112514027-BSC-CY-II-OSLAB/Prog7/prog7.c)
+**File**: [prog7.c](https://github.com/sathyanarayanan-devs/112514027-BSC-CY-II-osLab/blob/112514027-BSC-OSLAB-CY-II/Prog7/prog7.c)
 
 ## Compilation
 

@@ -16,7 +16,7 @@ For every argument, it performs the following operations:
 - If the argument is neither a valid file nor a directory, an appropriate error message is displayed.
 
 ## Source Code
-**File**: [prog2.c](https://github.com/sathyanarayanan-devs/112514027-BSC-CY-II-OSLAB/Prog2/checkfiles.sh)
+**File**: [prog2.c](https://github.com/sathyanarayanan-devs/112514027-BSC-CY-II-osLab/blob/112514027-BSC-OSLAB-CY-II/Prog2/checkfiles.sh)
 
 ## Script
 
