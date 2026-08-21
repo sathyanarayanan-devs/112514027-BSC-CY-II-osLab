@@ -25,8 +25,8 @@ The functions used are:
 
 **Files**:
 
-- [prog4_i.c](https://github.com/sathyanarayanan-devs/112514027-BSC-CY-II-OSLAB/Prog4/prog4_i.c) – Process creation and process identification.
-- [prog4_ii.c](https://github.com/sathyanarayanan-devs/112514027-BSC-CY-II-OSLAB/Prog4/prog4_ii.c) – Process creation with parent-child synchronization.
+- [prog4_i.c](https://github.com/sathyanarayanan-devs/112514027-BSC-CY-II-osLab/blob/112514027-BSC-OSLAB-CY-II/Prog4/prog4_i.c) – Process creation and process identification.
+- [prog4_ii.c](https://github.com/sathyanarayanan-devs/112514027-BSC-CY-II-osLab/blob/112514027-BSC-OSLAB-CY-II/Prog4/prog4_ii.c) – Process creation with parent-child synchronization.
 
 ## Compilation
 
