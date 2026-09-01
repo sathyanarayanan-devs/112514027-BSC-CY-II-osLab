@@ -36,7 +36,7 @@ int main(){
         return 1;
     }
 
-    int bytes = read(fd, buffer, strlen(buffer) - 1);
+    int bytes = read(fd, buffer, sizeof (buffer) - 1);
     buffer[bytes] = '\0';
     printf("%s\n", buffer);
     close(fd);
