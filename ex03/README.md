@@ -21,18 +21,18 @@ The operations performed are:
 
 ## Source Code
 
-**File**: [prog3.c](https://github.com/sathyanarayanan-devs/112514027-BSC-CY-II-osLab/blob/112514027-BSC-OSLAB-CY-II/Prog3/prog3.c)
+**File**: [prog3.c](https://github.com/sathyanarayanan-devs/112514027-BSC-CY-II-osLab/blob/112514027-BSC-OSLAB-CY-II/ex03/ex03.c)
 
 ## Compilation
 
 ```bash
-gcc prog3.c -o prog3
+gcc ex03.c -o ex03.exe
 ```
 
 ## Execution
 
 ```bash
-./prog3
+./ex03.exe
 ```
 
 ## Sample Output
