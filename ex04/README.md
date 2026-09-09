@@ -25,21 +25,21 @@ The functions used are:
 
 **Files**:
 
-- [prog4_i.c](https://github.com/sathyanarayanan-devs/112514027-BSC-CY-II-osLab/blob/112514027-BSC-OSLAB-CY-II/Prog4/prog4_i.c) – Process creation and process identification.
-- [prog4_ii.c](https://github.com/sathyanarayanan-devs/112514027-BSC-CY-II-osLab/blob/112514027-BSC-OSLAB-CY-II/Prog4/prog4_ii.c) – Process creation with parent-child synchronization.
+- [ex04_i.c](https://github.com/sathyanarayanan-devs/112514027-BSC-CY-II-osLab/blob/112514027-BSC-OSLAB-CY-II/ex04/ex04_i.c) – Process creation and process identification.
+- [ex04_ii.c](https://github.com/sathyanarayanan-devs/112514027-BSC-CY-II-osLab/blob/112514027-BSC-OSLAB-CY-II/Prog4/prog4_ii.c) – Process creation with parent-child synchronization.
 
 ## Compilation
 
 ### Program 4(i)
 
 ```bash
-gcc prog4_i.c -o prog4_i
+gcc ex04_i.c -o ex04_i
 ```
 
 ### Program 4(ii)
 
 ```bash
-gcc prog4_ii.c -o prog4_ii
+gcc ex04_ii.c -o ex04_ii
 ```
 
 ## Execution
@@ -47,24 +47,24 @@ gcc prog4_ii.c -o prog4_ii
 ### Program 4(i)
 
 ```bash
-./prog4_i
+./ex04_i
 ```
 
 ### Program 4(ii)
 
 ```bash
-./prog4_ii
+./ex04_ii
 ```
 
 ## Sample Output
 
 ### Program 4(i)
 
-![Sample Output for Prog4_i.c](image_1.png)
+![Sample Output for ex04_i.c](image_1.png)
 
 ### Program 4(ii)
 
-![Sample Output for Prog_ii.c](image_2.png)
+![Sample Output for ex04_ii.c](image_2.png)
 
 ## Process Functions Used
 
