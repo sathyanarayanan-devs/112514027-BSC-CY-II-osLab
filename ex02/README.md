@@ -16,7 +16,7 @@ For every argument, it performs the following operations:
 - If the argument is neither a valid file nor a directory, an appropriate error message is displayed.
 
 ## Source Code
-**File**: [prog2.c](https://github.com/sathyanarayanan-devs/112514027-BSC-CY-II-osLab/blob/112514027-BSC-OSLAB-CY-II/Prog2/checkfiles.sh)
+**File**: [prog2.c](https://github.com/sathyanarayanan-devs/112514027-BSC-CY-II-osLab/blob/112514027-BSC-OSLAB-CY-II/Prog2/ex02.sh)
 
 ## Script
 
@@ -42,13 +42,13 @@ done
 ## Make the Script Executable
 
 ```bash
-chmod +x prog2.sh
+chmod +x ex02.sh
 ```
 
 ## Execution
 
 ```bash
-./prog2.sh file1.txt Demo sample.txt
+./ex02.sh file1.txt Demo sample.txt
 ```
 
 ## Sample Output
