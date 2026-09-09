@@ -16,7 +16,7 @@ The program:
 - Closes the unused read and write ends of the pipe.
 
 ## Source Code
-**File**: https://github.com/sathyanarayanan-devs/112514027-BSC-CY-II-osLab/blob/112514027-BSC-OSLAB-CY-II/ex06/ex06.c
+**File**: [ex06.c](https://github.com/sathyanarayanan-devs/112514027-BSC-CY-II-osLab/blob/112514027-BSC-OSLAB-CY-II/ex06/ex06.c)
 
 ## Compilation
 
