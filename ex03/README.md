@@ -21,7 +21,7 @@ The operations performed are:
 
 ## Source Code
 
-**File**: [prog3.c](https://github.com/sathyanarayanan-devs/112514027-BSC-CY-II-osLab/blob/112514027-BSC-OSLAB-CY-II/ex03/ex03.c)
+**File**: [ex03.c](https://github.com/sathyanarayanan-devs/112514027-BSC-CY-II-osLab/blob/112514027-BSC-OSLAB-CY-II/ex03/ex03.c)
 
 ## Compilation
 
