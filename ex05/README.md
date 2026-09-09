@@ -14,7 +14,7 @@ The program:
 - Displays the signal number when the signal is received.
 
 ## Source Code
-**File**: https://github.com/sathyanarayanan-devs/112514027-BSC-CY-II-osLab/blob/112514027-BSC-OSLAB-CY-II/ex05/ex05.c
+**File**: [ex05.c](https://github.com/sathyanarayanan-devs/112514027-BSC-CY-II-osLab/blob/112514027-BSC-OSLAB-CY-II/ex05/ex05.c)
 
 ## Compilation
 
