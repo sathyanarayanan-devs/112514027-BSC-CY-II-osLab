@@ -25,8 +25,8 @@ The functions used are:
 
 **Files**:
 
-- [ex04_i.c](https://github.com/sathyanarayanan-devs/112514027-BSC-CY-II-osLab/blob/112514027-BSC-OSLAB-CY-II/ex04/ex04_i.c) – Process creation and process identification.
-- [ex04_ii.c](https://github.com/sathyanarayanan-devs/112514027-BSC-CY-II-osLab/blob/112514027-BSC-OSLAB-CY-II/Prog4/prog4_ii.c) – Process creation with parent-child synchronization.
+- [ex04_i.c](https://github.com/sathyanarayanan-devs/112514027-BSC-CY-II-osLab/blob/112514027-BSC-OSLAB-CY-II/ex04/ex04_i/ex04_i.c) – Process creation and process identification.
+- [ex04_ii.c](https://github.com/sathyanarayanan-devs/112514027-BSC-CY-II-osLab/blob/112514027-BSC-OSLAB-CY-II/ex04/ex04_ii/ex04_ii.c) – Process creation with parent-child synchronization.
 
 ## Compilation
 
@@ -60,11 +60,11 @@ gcc ex04_ii.c -o ex04_ii
 
 ### Program 4(i)
 
-![Sample Output for ex04_i.c](image_1.png)
+![Sample Output for ex04_i.c](ex04_i/image_1.png)
 
 ### Program 4(ii)
 
-![Sample Output for ex04_ii.c](image_2.png)
+![Sample Output for ex04_ii.c](ex04_ii/image_2.png)
 
 ## Process Functions Used
 
